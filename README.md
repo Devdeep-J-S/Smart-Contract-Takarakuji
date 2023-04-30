@@ -1,1 +1,1 @@
-# Smart-Contract-Takarakuji
+# Hardhat-Smart-Contract-Lottery
