@@ -8,7 +8,7 @@ import {
   usePrepareContractWrite,
   useContractWrite,
 } from "wagmi";
-import devdeep_abi from "@abi/devdeep_abi.json";
+import devdeep_abi from "../abi/devdeep_abi.json";
 import { ethers } from "ethers";
 import { useAccount } from "wagmi";
 import { useState, useEffect } from "react";
