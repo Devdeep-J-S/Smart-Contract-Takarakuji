@@ -17,7 +17,7 @@ export default function App({ Component, pageProps }: AppProps) {
   const { provider } = configureChains(chains, [w3mProvider({ projectId })]);
   const wagmiClient = createClient({
     autoConnect: true,
-    connectors: w3mConnectors({ projectId, version: 2, chains }),
+    connectors: w3mConnectors({ projectId, chains }), // bug solved version: 1 not needed see doc here : https://docs.walletconnect.com/2.0/web/web3modal/react/wagmi/installation
     provider,
   });
 
