@@ -2,7 +2,7 @@
 
 > live site : https://web3-takarakuji-devdeep-j-s.vercel.app/  or https://web3-takarakuji.vercel.app/ <br> 
 
-> demo video : https://www.youtube.com/watch?v=4kvGJ2u2Exc
+> Demo video: https://www.youtube.com/watch?v=4kvGJ2u2Exc
 
 # Getting Started
 
@@ -11,8 +11,8 @@
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
 - [Nodejs](https://nodejs.org/en/)
-  - You'll know you've installed nodejs right if you can run:
-    - `node --version` and get an ouput like: `vx.x.x`
+  - You'll know you've installed node right if you can run:
+    - `node --version` and get an output like: `vx. x.x`
 - [Yarn](https://yarnpkg.com/getting-started/install) instead of `npm`
   - You'll know you've installed yarn right if you can run:
     - `yarn --version` and get an output like: `x.x.x`
